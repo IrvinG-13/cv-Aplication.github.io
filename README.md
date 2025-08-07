@@ -1,3 +1,3 @@
 # React + Vite
 
-Link: cv-aplication-github-io.vercel.app
+Link: https://cv-aplication-github-io.vercel.app
